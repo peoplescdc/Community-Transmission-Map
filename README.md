@@ -1,5 +1,5 @@
 # Community-Transmission-Map
-Community Tranmission Map based on HHS PCR COVID Cases
+Community Tranmission Map based on HHS PCR COVID Cases (Link here: https://docs.google.com/document/d/e/2PACX-1vQjZfuOPvYZxvie_2CInHuY9NvTqdUoNE3DFQM4c4T6A7kT8sZx8jU7gYXrbEi9drBO2RtyVNoLcQRW/pub)
 
 About
 
@@ -7,7 +7,7 @@ The CDC ended their national US COVID community-level transmission map May of 20
 
 Data
 
-HHS provides daily counts of laboratory-based PCR-confirmed COVID cases aggregated at the state level. Using these data, we aggregate the total count of the daily number of confirmed COVID cases reported by at least 39 states including Washington DC from the CDC. The following states have consistently not reported their data to the CDC: Alabama, Colorado, Connecticut, Delaware, Florida, Missouri, New Jersey, New Mexico, Oregon, Pennsylvania, and Texas. Some of these states do provide their data within their local state department of health dashboard. We also share the data we used in developing these maps in the PCDC’s Github.
+HHS provides daily counts of laboratory-based PCR-confirmed COVID cases aggregated at the state level. Using these data, we aggregate the total count of the daily number of confirmed COVID cases reported by at least 39 states including Washington DC from the CDC. The following states have consistently not reported their data to the CDC: Alabama, Colorado, Connecticut, Delaware, Florida, Missouri, New Jersey, New Mexico, Oregon, Pennsylvania, and Texas. Some of these states do provide their data within their local state department of health dashboard. We also share the data we used in developing these maps provided by the CDC for public viewing in the PCDC’s Github.
 
 Methods
 
