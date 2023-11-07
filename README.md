@@ -25,4 +25,4 @@ In reporting these data on this map, we made several assumptions. COVID testing 
 
 Limitations
 
-Several limitations in developing and reporting the data in these maps. Rapid antigen test results are uncommonly reported and results in a severe underestimate of COVID case counts. This is because of a popular use of rapid antigen COVID tests and a lack of formal reporting mechanism for positive rapid antigen COVID tests that loop back into a single database.
+Several limitations in developing and reporting the data in these maps. Rapid antigen test results are uncommonly reported and results in a severe underestimate of COVID case counts. This is because of a popular use of rapid antigen COVID tests and a lack of formal reporting mechanism for positive rapid antigen COVID tests that loop back into a single database. Seven day cumulative totals of COVID cases is not a perfect approach compared to daily cumulative totals of COVID cases.
