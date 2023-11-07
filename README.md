@@ -17,7 +17,7 @@ Our model is pretty straightforward: First, we add all the new COVID cases in a 
 
 COVID levels were grouped according to intensity. Low transmission is considered anything below 1 new COVID cases per 100,000. Moderate is defined as 1-10 cases per 100,000. Substantial is defined as 10 to 20 cases per 100,000High is defined as 21 to 40 cases per 100,000. Very High is defined as greater than 40 cases per 100,000
 
-We used ArcPro, a mapping software, to develop the maps. 
+In developing this image, we used ArcPro, a mapping software.
 
 Assumptions
 
