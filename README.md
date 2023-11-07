@@ -2,6 +2,7 @@
 Community Tranmission Map based on HHS PCR COVID Cases
 
 About
+
 The CDC ended their national US COVID community-level transmission map May of 2023. A replacement map is needed as it provides a visualization of current levels of COVID transmission across the US. This map is important as it accounts for a 7-day cumulative COVID rate and provides an assessment of the degree of COVID transmission levels within each state. However, the data being used to estimate COVID transmission rates on this map relies on laboratory-confirmed COVID results, which is a severe underestimate of the actual total volume of COVID cases across the US. Consequently, the map cannot be used to accurately account for actual the total count of COVID cases within each state. Even though the data are extremely lacking, we use the available data to help provide public awareness that COVID transmission continues to occur and at different degrees of transmission levels.
 
 Data
